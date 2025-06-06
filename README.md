@@ -58,7 +58,7 @@ REDIRECT_URI=http://localhost:3000/callback
 </code></pre>
 
 <h2>📘 License</h2>
-<p>MIT – Free to use, modify, or redistribute.</p>
+<p>GNU General Public License v3.0</p>
 
 <h2>👨‍💻 Author</h2>
 <p>Created by you. Want to contribute or expand this with graphs, alerts, or database support? PRs welcome!</p>
